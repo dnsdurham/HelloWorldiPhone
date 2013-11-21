@@ -1,4 +1,4 @@
 HelloWorldiPhone
 ================
 
-Hellow Worl app for Xamarin iPhone app
+Hellow World app for Xamarin iPhone app
